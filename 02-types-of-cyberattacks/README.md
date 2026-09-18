@@ -68,6 +68,14 @@ The pattern across all these attacks is that they exploit some form of trust —
 
 I also appreciated that the course put social engineering and technical attacks in the same module. They are usually taught separately, but in practice phishing is the delivery step for a lot of malware, and the targets are often chosen via DNS or network observation.
 
+## Practical Connection
+
+SQL injection is where this module connects most directly to my lab work. My [PortSwigger Web Security Academy writeups](https://github.com/Utkarsh464/portswigger-academy) include 15 SQL injection labs covering WHERE-clause injection, login bypass, UNION-based data retrieval, and blind injection — several of them solved with a [blind SQLi extractor](https://github.com/Utkarsh464/pentools) I wrote in Python. The course's explanation of why injection happens matches what I saw in those labs: the application trusted user input as part of the query. The labs had me exploit it; the course gave me the clean framework for explaining it.
+
+The man-in-the-middle section also connected to my [HTTP proxy lab](https://github.com/Utkarsh464/http-proxy-lab). Building a forward proxy from scratch taught me what it means for a system to sit between the client and the server — it sees every request and can read or modify it. That is exactly the position a MitM attacker needs, which made the course's "position in the middle" framing concrete for me.
+
+One other small connection: my proxy-lab notes document a memory-exhaustion weakness in the tool itself, where an attacker could send an oversized request and run the process out of memory — a practical example of the denial-of-service concept from this module, found in my own code.
+
 ## Key Takeaways
 
 - DoS and DDoS are availability attacks; DDoS multiplies the flood using a botnet and amplification.
