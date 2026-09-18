@@ -12,13 +12,13 @@ This is a learning log, not a textbook. If a section feels light, it is because 
 - [x] Module 2 - Types of Cyberattacks
 - [x] Module 3 - Structure of a Cyberattack
 - [x] Module 4 - Cybercrime Ecosystem
-- [ ] Module 5 - Social Engineering
-- [ ] Module 6 - Open-Source Intelligence
-- [ ] Module 7 - Technical Scanning
-- [ ] Module 8 - Case Studies
+- [x] Module 5 - Social Engineering
+- [x] Module 6 - Open-Source Intelligence
+- [x] Module 7 - Technical Scanning
+- [x] Module 8 - Case Studies
 - [ ] Final Assessment
 
-Modules 5-8 and the final assessment are still ahead of me, so nothing there is documented yet.
+Modules 1-8 are documented here. The final assessment is not course content and does not belong in these notes.
 
 ## What This Repository Contains
 
@@ -28,6 +28,10 @@ Modules 5-8 and the final assessment are still ahead of me, so nothing there is 
 | [02 types of cyberattacks](<02 types of cyberattacks/README.md>)           | Denial of service, distributed denial of service, phishing, spear phishing, malware, man-in-the-middle, DNS attacks, SQL injection and AI in cyberattacks.               |
 | [03 structure of a cyberattack](<03 structure of a cyberattack/README.md>) | How attacks are structured, the Lockheed Martin Cyber Kill Chain, MITRE ATT&CK, and why understanding the structure matters for defense.                                 |
 | [04 cybercrime ecosystem](<04 cybercrime ecosystem/README.md>)             | How the underground cybercrime economy works: the ecosystem, the underground marketplaces, the initial cash injection and the role of cryptocurrency.                    |
+| [05 social engineering](<05 social engineering/README.md>)                 | How attackers manipulate people instead of software: the psychology, the delivery methods, and how to defend against them.                                               |
+| [06 open source intelligence](<06 open source intelligence/README.md>)     | Collecting intelligence from public sources: what OSINT is, its sources, the legal boundaries, and why it matters to everyone.                                             |
+| [07 technical scanning](<07 technical scanning/README.md>)                 | Active reconnaissance: ping, traceroute, port scanning, vulnerability scanning, device search engines and AI-assisted scanning.                                             |
+| [08 case studies](<08 case studies/README.md>)                             | Five real incidents (Stuxnet, LAUSD, NSA, Cash App, SolarWinds) read through the frameworks built in Modules 1-4.                                                            |
 | [references](references/README.md)                                       | The sources I used while researching each module.                                                                                                                        |
 
 ## Learning Approach
@@ -56,6 +60,8 @@ The repositories referenced inside the module notes:
 - [labs](https://github.com/Utkarsh464/labs): isolated-network labs against Metasploitable 2, DVWA and WebGoat
 - [pentools](https://github.com/Utkarsh464/pentools): small Python security utilities, including a blind SQLi extractor
 - [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab): an HTTP forward proxy built from scratch
+- [tryhackme-writeups](https://github.com/Utkarsh464/tryhackme-writeups): TryHackMe room writeups, including network reconnaissance and incident response
+- [dir-brute](https://github.com/Utkarsh464/dir-brute): a concurrent directory brute-forcer and web crawler
 
 These are only included where a course topic genuinely overlaps with what the repository demonstrates.
 
