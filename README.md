@@ -2,7 +2,7 @@
 
 Personal learning notes from the **IBM Cybersecurity: On the Offense** course.
 
-Each module in this repository is written from my own understanding of the course material. Where the course touched a topic briefly, I researched the same topic through primary sources — IBM, CISA, NIST, MITRE, OWASP, Lockheed Martin, Europol and others — to check the facts and get the context right.
+Each module in this repository is written from my own understanding of the course material. Where the course touched a topic briefly, I researched the same topic through primary sources (IBM, CISA, NIST, MITRE, OWASP, Lockheed Martin, Europol and others) to check the facts and get the context right.
 
 This is a learning log, not a textbook. If a section feels light, it is because the course itself covered it lightly, and I kept the scope to what the course actually taught.
 
@@ -35,7 +35,7 @@ Modules 5-8 and the final assessment are still ahead of me, so nothing there is 
 My process for every module looked like this:
 
 ```
-IBM Course -> Research -> Understand -> Document -> Connect With Practice
+IBM Course → Research → Understand → Document → Connect With Practice
 ```
 
 The course defines the boundaries. I read the module, noted the exact concepts it teaches, researched those same concepts in reputable sources to verify details, wrote my understanding in my own words, and only then looked for connections to things I have actually practiced.
@@ -44,7 +44,7 @@ The IBM course decides what belongs in a module. My research and lab experience 
 
 ## Practical Connections
 
-Purely practical labs are not part of this course. However, when a course topic overlaps with something I have already tried in my own lab work — PortSwigger labs, Metasploitable 2, DVWA/WebGoat, or tools I built myself — I link the relevant repository so the notes connect back to hands-on practice.
+Purely practical labs are not part of this course. However, when a course topic overlaps with something I have already tried in my own lab work (PortSwigger labs, Metasploitable 2, DVWA/WebGoat, or tools I built myself), I link the relevant repository so the notes connect back to hands-on practice.
 
 Those projects are my own work and are separate from the IBM course. Where I link them, they are examples of practice, not claims of professional experience.
 
@@ -52,10 +52,10 @@ Those projects are my own work and are separate from the IBM course. Where I lin
 
 The repositories referenced inside the module notes:
 
-- [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) — Web Security Academy lab writeups, including SQL injection
-- [labs](https://github.com/Utkarsh464/labs) — isolated-network labs against Metasploitable 2, DVWA and WebGoat
-- [pentools](https://github.com/Utkarsh464/pentools) — small Python security utilities, including a blind SQLi extractor
-- [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) — an HTTP forward proxy built from scratch
+- [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy): Web Security Academy lab writeups, including SQL injection
+- [labs](https://github.com/Utkarsh464/labs): isolated-network labs against Metasploitable 2, DVWA and WebGoat
+- [pentools](https://github.com/Utkarsh464/pentools): small Python security utilities, including a blind SQLi extractor
+- [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab): an HTTP forward proxy built from scratch
 
 These are only included where a course topic genuinely overlaps with what the repository demonstrates.
 

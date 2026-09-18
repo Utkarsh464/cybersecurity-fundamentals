@@ -2,7 +2,7 @@
 
 ## What I Learned
 
-This module zooms out from individual attacks to the economy that surrounds them. The cybercrime ecosystem is the network of people, marketplaces, tools and payment systems that let criminals specialize: instead of one person doing everything — writing malware, breaking into systems, collecting ransoms — the work is split across roles the way a legitimate industry splits labor.
+This module zooms out from individual attacks to the economy that surrounds them. The cybercrime ecosystem is the network of people, marketplaces, tools and payment systems that let criminals specialize: instead of one person doing everything (writing malware, breaking into systems, collecting ransoms), the work is split across roles the way a legitimate industry splits labor.
 
 The picture the course paints is of an underground version of a normal economy. There are suppliers, resellers, customers and middlemen, and the whole thing runs on reputation, escrow and a payment system designed for pseudonymity. Understanding the ecosystem matters because it explains both why attacks are so common (the tools are commercially available) and why attribution is so hard (the roles are deliberately separated).
 
@@ -24,17 +24,17 @@ The course stresses that this structure is why the barrier to entry into cybercr
 
 The initial cash injection is the funding a criminal operation needs before it can generate profit. Even an underground business has start-up costs: buying exploit kits or access, paying for hosting that tolerates abuse, funding advertising and infrastructure.
 
-The course's point is that this money has to come from somewhere, and it usually comes from crime itself. Early small-scale fraud or theft seeds the operation; the profits fund better tools, larger operations, and greater reach. It is a reinvestment loop — the ecosystem grows its own capital, which is why operations can scale quickly once a group starts generating returns.
+The course's point is that this money has to come from somewhere, and it usually comes from crime itself. Early small-scale fraud or theft seeds the operation; the profits fund better tools, larger operations, and greater reach. It is a reinvestment loop: the ecosystem grows its own capital, which is why operations can scale quickly once a group starts generating returns.
 
 ## Cryptocurrency
 
 Cryptocurrency is what makes the financial side of the ecosystem practical. The course presents it as the payment rail the ecosystem runs on, for reasons that are structural:
 
-- **Pseudonymity/anonymity** — transactions are not tied to a real identity.
-- **Global reach** — payments cross borders instantly, with no bank involvement.
-- **Irreversibility** — once sent, a transaction is effectively final.
+- **Pseudonymity/anonymity**: transactions are not tied to a real identity.
+- **Global reach**: payments cross borders instantly, with no bank involvement.
+- **Irreversibility**: once sent, a transaction is effectively final.
 
-That combination makes cryptocurrency the natural fit for ransom payments and marketplace purchases inside the ecosystem, and it also enables laundering: moving funds through many wallets, mixing services and conversions between coins to break the trail. The course keeps this factual rather than sensational — the point is why the ecosystem chose this payment rail, not how to abuse it.
+That combination makes cryptocurrency the natural fit for ransom payments and marketplace purchases inside the ecosystem, and it also enables laundering: moving funds through many wallets, mixing services and conversions between coins to break the trail. The course keeps this factual rather than sensational: the point is why the ecosystem chose this payment rail, not how to abuse it.
 
 ## The Cybercrime Ecosystem in Action
 
@@ -47,13 +47,13 @@ Putting the pieces together, the course walks through how a typical modern ranso
 5. A **launderer** processes the payment through a chain of wallets and conversions to obscure the trail.
 6. The **proceeds** are split between the affiliate and the operator according to their agreement.
 
-The course's point in showing this flow is that no single party sees the whole picture — each role only touches its own slice. That separation is both the ecosystem's business model and the reason law-enforcement attribution is difficult.
+The course's point in showing this flow is that no single party sees the whole picture: each role only touches its own slice. That separation is both the ecosystem's business model and the reason law-enforcement attribution is difficult.
 
 ## What Stood Out to Me
 
 The biggest shift in my thinking was seeing cybercrime as an industry rather than a collection of lone criminals. Once I had that frame, statistics about attack volumes made more sense: the tools are mass-produced, the entry barrier is low, and there is a supply chain just like any other market.
 
-I also found the initial-cash-injection concept genuinely clarifying. Every operation I had read about in breach news started somewhere, and the idea that crime funds crime — with operations scaling up through reinvested profit — explains the consistent growth of the ecosystem.
+I also found the initial-cash-injection concept genuinely clarifying. Every operation I had read about in breach news started somewhere, and the idea that crime funds crime, with operations scaling up through reinvested profit, explains the consistent growth of the ecosystem.
 
 ## Key Takeaways
 
