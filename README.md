@@ -48,6 +48,17 @@ Purely practical labs are not part of this course. However, when a course topic 
 
 Those projects are my own work and are separate from the IBM course. Where I link them, they are examples of practice, not claims of professional experience.
 
+## Related Repositories
+
+The repositories referenced inside the module notes:
+
+- [portswigger-academy](https://github.com/Utkarsh464/portswigger-academy) — Web Security Academy lab writeups, including SQL injection
+- [labs](https://github.com/Utkarsh464/labs) — isolated-network labs against Metasploitable 2, DVWA and WebGoat
+- [pentools](https://github.com/Utkarsh464/pentools) — small Python security utilities, including a blind SQLi extractor
+- [http-proxy-lab](https://github.com/Utkarsh464/http-proxy-lab) — an HTTP forward proxy built from scratch
+
+These are only included where a course topic genuinely overlaps with what the repository demonstrates.
+
 ## Disclaimer
 
 Everything here is for educational purposes. The techniques and concepts described are studied to understand how attacks work so they can be defended against. Practical security testing should only ever be performed on systems you own or have explicit written authorization to test.
