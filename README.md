@@ -24,10 +24,10 @@ Modules 5-8 and the final assessment are still ahead of me, so nothing there is 
 
 | Directory                                                                | What is in it                                                                                                                                                            |
 | ------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| [01-threat-actor-groups](01-threat-actor-groups/README.md)               | The threat-actor categories the course covers: script kiddies, hacktivists, criminal gangs, nation-state hackers, malicious insiders and offensive security researchers. |
-| [02-types-of-cyberattacks](02-types-of-cyberattacks/README.md)           | Denial of service, distributed denial of service, phishing, spear phishing, malware, man-in-the-middle, DNS attacks, SQL injection and AI in cyberattacks.               |
-| [03-structure-of-a-cyberattack](03-structure-of-a-cyberattack/README.md) | How attacks are structured, the Lockheed Martin Cyber Kill Chain, MITRE ATT&CK, and why understanding the structure matters for defense.                                 |
-| [04-cybercrime-ecosystem](04-cybercrime-ecosystem/README.md)             | How the underground cybercrime economy works: the ecosystem, the underground marketplaces, the initial cash injection and the role of cryptocurrency.                    |
+| [01 threat actor groups](<01 threat actor groups/README.md>)               | The threat-actor categories the course covers: script kiddies, hacktivists, criminal gangs, nation-state hackers, malicious insiders and offensive security researchers. |
+| [02 types of cyberattacks](<02 types of cyberattacks/README.md>)           | Denial of service, distributed denial of service, phishing, spear phishing, malware, man-in-the-middle, DNS attacks, SQL injection and AI in cyberattacks.               |
+| [03 structure of a cyberattack](<03 structure of a cyberattack/README.md>) | How attacks are structured, the Lockheed Martin Cyber Kill Chain, MITRE ATT&CK, and why understanding the structure matters for defense.                                 |
+| [04 cybercrime ecosystem](<04 cybercrime ecosystem/README.md>)             | How the underground cybercrime economy works: the ecosystem, the underground marketplaces, the initial cash injection and the role of cryptocurrency.                    |
 | [references](references/README.md)                                       | The sources I used while researching each module.                                                                                                                        |
 
 ## Learning Approach
