@@ -4,7 +4,7 @@
 
 This module walks through the common ways attacks actually happen. The list is broad — network-level floods, human-targeted deception, malicious software, and application-level injection — and the point of putting them side by side is to see how different the attacker's job is depending on the vector.
 
-Two things stood out. First, several of these attacks are not exclusive: a phishing email is a common way malware gets delivered, and SQL injection often leads to data theft rather than being an end in itself. Second, the course includes AI in cyberattacks, which tells you something about where the threat landscape is headed — the tools used to attack are getting smarter.
+Two things stood out. First, several of these attacks are not exclusive: a phishing email is a common way malware gets delivered, and SQL injection often leads to data theft rather than being an end in itself. Second, the course includes AI in cyberattacks, which tells you something about where the attack side of cybersecurity is headed — the tools used to attack are getting smarter.
 
 ## Attacks Covered
 

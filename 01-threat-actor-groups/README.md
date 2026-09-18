@@ -10,7 +10,7 @@ The course also makes a point I had not fully appreciated: the most technically 
 
 ### Script Kiddie
 
-A script kiddie is someone who runs existing tools and exploits without really understanding how they work. They are typically low-skill and opportunistic — they pick up ready-made tools (for example a Loic-style flood tool or a known exploit script) and use them against whatever target is convenient.
+A script kiddie is someone who runs existing tools and exploits without really understanding how they work. They are typically low-skill and opportunistic — they pick up ready-made tools (for example a LOIC-style flood tool or a known exploit script) and use them against whatever target is convenient.
 
 The name says it all: they "kidd" around with scripts. Their motivation is usually bragging rights, thrill, or curiosity rather than serious profit. Because they depend on public exploits, they mostly hit known, unpatched vulnerabilities — which is why basics like patching and good password hygiene stop most of them.
 
